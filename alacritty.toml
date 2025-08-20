@@ -1,0 +1,15 @@
+general.import = ["~/.config/alacritty/themes/themes/coolnight.toml"]
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+padding.x = 10
+padding.y = 10
+option_as_alt = "Both"
+opacity = 0.8
+blur = true
+
+[font]
+size = 17
+normal.family = "Iosevka"
